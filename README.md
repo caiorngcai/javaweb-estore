@@ -1,0 +1,2 @@
+# javaweb-estore
+使用javaweb和mysql技术写的一个简单的在线电子商城项目
